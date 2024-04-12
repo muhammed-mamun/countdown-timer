@@ -43,8 +43,8 @@ const Calculate = ({ targetDate }) => {
         </div>
       ) : (
         <div>
-          <h2 className="text-4xl text-[#d9d9d9] font-semibold text-center">
-            Countdown Timer
+          <h2 className="text-2xl text-[#d9d9d9] font-semibold text-center">
+            Enrollment starts in...
           </h2>
           <div className="grid grid-cols-4 gap-2 px-32 pt-6">
             <div className="text-white h-32 rounded-lg shadow-2xl flex justify-center text-4xl text-center bg-[#3367FE] font-bold text items-center">
